@@ -1,0 +1,14 @@
+# VSCode history
+.history/
+
+# VSCode config
+.vscode/
+
+# OS files
+.DS_Store
+
+# NodeJS (nếu có)
+node_modules/
+
+# Logs
+*.log
